@@ -27,7 +27,7 @@
     "express": "^4.16.4",
     "ffmpeg": "0.0.4",
     "fs": "0.0.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-duration-format": "^2.2.2",
     "opusscript": "0.0.6",
     "random-puppy": "^1.1.0",
